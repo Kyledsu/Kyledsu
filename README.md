@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Kyledsu/Kyledsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img src="https://i.pinimg.com/originals/d4/97/ef/d497efbd07b40f54e7b298f2f2dff4a9.gif">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
